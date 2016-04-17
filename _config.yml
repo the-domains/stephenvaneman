@@ -1,40 +1,40 @@
-name: WaterlooVistas
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4119226
+name: WaterlooVistas
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0
+  lightness: 0.1874329
   brandColors:
     - '#150E0C'
     - '#423A41'
     - '#CFBECF'
     - '#F2B45C'
     - '#D881A2'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.4967777
+typography_spectrum: 0.4119226
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
