@@ -1,4 +1,7 @@
-layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +21,20 @@ collections:
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0
+  brandStrength: 0.480666
   lightness: 0.1874329
   brandColors:
-    - '#150E0C'
-    - '#423A41'
-    - '#CFBECF'
-    - '#F2B45C'
-    - '#D881A2'
+    - '#301F27'
+    - '#658877'
+    - '#FFCF9A'
+    - '#FFFAE9'
+    - '#7F432F'
   rhythmicContrast: 0.4967777
 typography_spectrum: 0.4119226
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0
 favicon: null
 name: WaterlooVistas
