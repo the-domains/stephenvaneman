@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.instagram.com/p/BDg6bS_S6RK/?taken-by=stephenvaneman'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T14:34:28.748Z'
-dateModified: '2016-04-17T14:31:30.898Z'
+datePublished: '2016-04-17T14:41:53.848Z'
+dateModified: '2016-04-17T14:35:40.435Z'
 author:
   - name: stephenvaneman
     url: 'https://www.instagram.com/stephenvaneman'
