@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Beauty from my vista
-datePublished: '2016-04-17T14:17:23.665Z'
-dateModified: '2016-04-17T14:17:05.294Z'
+datePublished: '2016-04-17T14:41:53.851Z'
+dateModified: '2016-04-17T14:25:05.956Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-beauty-from-my-vista.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: beauty-from-my-vista/index.html
 _type: Article
 
