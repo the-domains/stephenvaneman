@@ -1,0 +1,28 @@
+name: stephenvaneman
+favicon: null
+layout_spectrum: 0.9985866590868682
+typography_spectrum: 0.5414299815893173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.21457695635035634
+  lightness: 0.8296864437870681
+  saturation: 0.21461330633610487
+  rhythmicContrast: 0.4592161439359188
+purpose: []
