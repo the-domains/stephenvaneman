@@ -1,7 +1,7 @@
 name: stephenvaneman
 favicon: null
-layout_spectrum: 0.9985866590868682
-typography_spectrum: 0.5414299815893173
+layout_spectrum: 1
+typography_spectrum: 0.08106
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000003'
+    - '#383236'
+    - '#fdd130'
+    - '#2ab68d'
+    - '#a985b6'
   brandStrength: 0.21457695635035634
   lightness: 0.8296864437870681
   saturation: 0.21461330633610487
