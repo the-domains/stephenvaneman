@@ -1,28 +1,40 @@
-name: stephenvaneman
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.08106
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000003'
-    - '#383236'
-    - '#fdd130'
-    - '#2ab68d'
-    - '#a985b6'
-  brandStrength: 0.21457695635035634
-  lightness: 0.8296864437870681
-  saturation: 0.21461330633610487
-  rhythmicContrast: 0.4592161439359188
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.4001074
+  brandColors:
+    - '#150E0C'
+    - '#423A41'
+    - '#CFBECF'
+    - '#F2B45C'
+    - '#D881A2'
+  rhythmicContrast: 0.4592161
+typography_spectrum: 0.4119226
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: stephenvaneman
