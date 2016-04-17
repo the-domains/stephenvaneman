@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: WaterlooVistas
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4119226
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.4001074
   brandColors:
     - '#150E0C'
     - '#423A41'
     - '#CFBECF'
     - '#F2B45C'
     - '#D881A2'
-  rhythmicContrast: 0.4592161
-typography_spectrum: 0.4119226
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: stephenvaneman
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
