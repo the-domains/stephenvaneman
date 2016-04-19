@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Just a view through the eyes of an Austinite
 cta:
   domain: null
   bucket: null
